@@ -1,0 +1,15 @@
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\bin\Debug\net6.0\Reiz.exe
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\bin\Debug\net6.0\Reiz.deps.json
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\bin\Debug\net6.0\Reiz.runtimeconfig.json
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\bin\Debug\net6.0\Reiz.dll
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\bin\Debug\net6.0\Reiz.pdb
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\obj\Debug\net6.0\Reiz.csproj.AssemblyReference.cache
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\obj\Debug\net6.0\Reiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\obj\Debug\net6.0\Reiz.AssemblyInfoInputs.cache
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\obj\Debug\net6.0\Reiz.AssemblyInfo.cs
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\obj\Debug\net6.0\Reiz.csproj.CoreCompileInputs.cache
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\obj\Debug\net6.0\Reiz.dll
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\obj\Debug\net6.0\refint\Reiz.dll
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\obj\Debug\net6.0\Reiz.pdb
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\obj\Debug\net6.0\Reiz.genruntimeconfig.cache
+C:\Users\galin\OneDrive\Desktop\Praktika\Reiz\ReizApp\obj\Debug\net6.0\ref\Reiz.dll
